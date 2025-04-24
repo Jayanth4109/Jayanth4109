@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Web Development and DSA**
 
-- 📫 How to reach me **jayanth_v@outlook.in**
+- 📫 Reach me at : **jayanth_v@outlook.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
